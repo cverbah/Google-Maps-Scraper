@@ -4,7 +4,7 @@
 </p>
 
 ## About:
-Website scraper Bot for Google Maps <br>
+Scraper Bot for Google Maps <br>
 There are 2 files: A *.py script and a *.ipynb, both files perfom the same, but the jupyter notebook file is intended as an **example** of how the script works. <br>
 
 ## Built with
@@ -13,9 +13,10 @@ There are 2 files: A *.py script and a *.ipynb, both files perfom the same, but 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=plastic)
 
 ## How to Use it
-1. Download all the files
-2. Run `python -m pip install jinja2` to install the library needed
-3. Run `python show.py`
-4. Write the name of the pokemon you want to check
+1. Download the *.py file `GoogleMaps_Scraper.py`
+2. Run `python -m pip install selenium` to install Selenium
+3. Run `python -m pip install pandas` to install the Pandas
+
+
 
 
