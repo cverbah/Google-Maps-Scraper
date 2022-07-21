@@ -14,8 +14,8 @@ There are 2 files: A *.py script and a *.ipynb, both files perfom the same, but 
 
 ## How to Use it
 1. Download the *.py file `GoogleMaps_Scraper.py`
-2. Run `python -m pip install selenium` to install Selenium
-3. Run `python -m pip install pandas` to install the Pandas
+2. Run `python -m pip install selenium` to install **Selenium**
+3. Run `python -m pip install pandas` to install **Pandas**
 
 
 
