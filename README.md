@@ -6,7 +6,8 @@
 ## About:
 Scraper Bot for Google Maps <br>
 There are 2 files: A *.py script and a *.ipynb, both files perfom the same, but the jupyter notebook file is intended as an **example** of how the script works. <br>
-This script uses Google Chrome, so be sure to have it installed in your PC
+This script uses Google Chrome, so be sure to have it installed in your PC <br>
+Availabe in English and Spanish
 
 ## Built with
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br>
