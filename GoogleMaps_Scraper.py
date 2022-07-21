@@ -133,6 +133,7 @@ def generate_df(scrape_data):
     df['location'] = df['location'].apply(lambda row: ' '.join(str(row).split()[1:]))
     df['rating'] = pd.to_numeric(df['rating'])
     df.replace('',np.nan, inplace=True)
+    df.drop_duplicates(inplace=True)
     df = df[['name', 'category', 'rating', 'phone', 'address', 'location', 'latitude', 'longitude', 'website']]
     
     return df
