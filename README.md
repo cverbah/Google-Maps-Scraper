@@ -22,6 +22,6 @@ Availabe in English and Spanish
 4. Run `python -m pip install numpy` to install **Numpy**
 5. Run `python -m pip install chromedriver-py` to install **Chromedriver-py**
 6. Install ChromeDriver from https://chromedriver.chromium.org/downloads .Be sure to select the **same version** as your Chrome browser!
-7. Go to the command prompt (for Window: press Windows key + R and type **cmd**) and change to the directory where the *.py is located (you can use the **cd** command to change directory.
+7. Go to the command prompt (for Window: press Windows key + R and type **cmd**) and change to the directory where the *.py is located (you can use the **cd** command to change directory)
 8. Run `python GoogleMaps_Scraper.py`. Perform the query you are searching
 9. A *.csv file is going to be saved with the data scraped.
